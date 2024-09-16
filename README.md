@@ -1,2 +1,1 @@
-# ThePitReplica
-The Pit like game.
+# ThePit
